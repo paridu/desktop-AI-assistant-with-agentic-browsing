@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI Desktop",
+  "description": "A powerful desktop AI assistant with agentic browsing, real-time listening, and an integrated coding workspace.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
